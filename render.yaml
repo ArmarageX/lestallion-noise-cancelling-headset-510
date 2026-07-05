@@ -1,0 +1,5 @@
+services:
+- type: web
+  name: lestallion-noise-cancelling-headset-510
+  runtime: static
+  staticPublishPath: site
